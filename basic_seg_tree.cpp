@@ -1,4 +1,4 @@
-//Q count number of distinct substrings of a string 
+// worse worse complexity 
 
 #include <bits/stdc++.h>
 using namespace std;
