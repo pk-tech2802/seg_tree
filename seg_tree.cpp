@@ -1,5 +1,3 @@
-//Q count number of distinct substrings of a string 
-
 #include <bits/stdc++.h>
 using namespace std;
 #define fo(i, s, e) for (int i = s; i < e; i++)
